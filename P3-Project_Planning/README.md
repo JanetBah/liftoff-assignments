@@ -12,8 +12,8 @@ Include at least 3 wireframes here, adding images or files to your repository as
 - I have attached images of my wireframe in the file.They include
 	- Home page
 	-Register page 
-	-Welcome page
-	-Welcome page 2
+	-Welcome page(choose dance style)
+	-Welcome page(choose a path)
 	-Learn page
 	-Community page
 ### Project Tracker
